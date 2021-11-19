@@ -1,0 +1,8 @@
+2 - Dynamic programming
+3 - Greedy algorithm
+4 - Sorting Techniques - ./Site/7. Sorting Techniques
+5 - String-searching algorithm - prefix function for Knuth–Morris–Pratt algorithm
+6 - Hash table - - ./Site/6. Searching Techniques
+7 - Binary search tree + ./Site/9. Tree Data Structure
+8 - AVL tree
+9 - Binomial_Heap
